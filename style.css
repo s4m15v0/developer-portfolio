@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+    margin: 0;
 }
 h1{
     font-size: 45px;
@@ -25,4 +26,8 @@ section{
     background-image: linear-gradient(green, yellowgreen);
     color: white;
     font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
